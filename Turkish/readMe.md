@@ -456,7 +456,7 @@ JavaScript'te ve diğer programlama dillerinde, farklı tiplerde veri türleri v
   Örnek:
   ... -3, -2, -1, 0, 1, 2, 3 ...
 - Ondalıklı sayılar: (Float / Decimal)
-  Example
+  Örnek:
   ... -3.5, -2.25, -1.0, 0.0, 1.1, 2.2, 3.5 ...
 
 ### String
